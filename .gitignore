@@ -20,8 +20,11 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 pip-wheel-metadata/
 share/python-wheels/
+=======
+>>>>>>> 470553f3d1ca8030d7a7057bc5e21ddd53c4e74d
 *.egg-info/
 .installed.cfg
 *.egg
@@ -40,7 +43,10 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+<<<<<<< HEAD
 .nox/
+=======
+>>>>>>> 470553f3d1ca8030d7a7057bc5e21ddd53c4e74d
 .coverage
 .coverage.*
 .cache
@@ -58,7 +64,10 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
+<<<<<<< HEAD
 db.sqlite3-journal
+=======
+>>>>>>> 470553f3d1ca8030d7a7057bc5e21ddd53c4e74d
 
 # Flask stuff:
 instance/
@@ -76,6 +85,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 # IPython
 profile_default/
 ipython_config.py
@@ -90,6 +100,11 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
+=======
+# pyenv
+.python-version
+
+>>>>>>> 470553f3d1ca8030d7a7057bc5e21ddd53c4e74d
 # celery beat schedule file
 celerybeat-schedule
 
@@ -117,8 +132,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+>>>>>>> 470553f3d1ca8030d7a7057bc5e21ddd53c4e74d
